@@ -13,3 +13,5 @@ Use:
 3. The preset named "A" goes at the cut you made at the end of first clip.
 4. The preset named "B" goes at the cut you made at the begining of the second clip.
 5. Duration of the Transition depends on the lengths of the cut you make.
+
+:D
