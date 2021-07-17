@@ -10,7 +10,7 @@ Use:
 3. The preset named "B" goes at the cut you made at the begining of the second clip.
 4. Duration of the Transition depends on the lengths of the cut you make.
 
-Here's my YouTube video for reference:
+Here's my YouTube video for reference your:
 https://www.youtube.com/watch?v=xERctiNucj0&t=292s
 
 
