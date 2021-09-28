@@ -11,7 +11,7 @@ Use:
 4. Duration of the Transition depends on the lengths of the cut you make.
 
 Here's my YouTube video for reference your:
-https://www.youtube.com/watch?v=xERctiNucj0&t=292s
+https://youtu.be/xERctiNucj0
 
 
 :D
